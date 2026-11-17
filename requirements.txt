@@ -1,5 +1,9 @@
-os
-sys
-time
-threading
-subprocess
+# Tools, die im Code über subprocess ausgeführt werden (für das Terminal)
+# Diese müssen separat installiert werden, aber Python kennt sie hierfür nicht direkt
+# hydra
+# sqlmap
+# whois
+# nmap
+
+# Optional: Pygments für Syntax-Highlighting (falls du später besseren Output willst)
+pygments
