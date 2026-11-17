@@ -183,4 +183,4 @@ class Norven:
             choice = input(">> ")
             if choice == '1':
                 target = input(Colors.OKCYAN + "Target: " + Colors.ENDC)
-                self.run_command(f"n
+                self.run_command("n")
